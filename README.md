@@ -18,7 +18,7 @@ Training the Model: Users can train the model using the provided script main.py.
 Evaluating Real Brain Images: After training, users can evaluate the model's performance on real brain images using the preprocess_and_evaluate_real_images function. This function preprocesses the input images and generates predictions for the presence of brain hemorrhage.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot](https://github.com/Sayan-Maity-Code/Brain_Hemorrhage_Detection_Model/blob/main/Screenshots/healthy%26Tumor%20brain%20mri%20img%20for%20comparison.jpg)
 
 
 ## Installation

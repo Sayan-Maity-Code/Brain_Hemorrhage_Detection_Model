@@ -22,18 +22,19 @@ Testing the Model: After training, the model's performance is evaluated on a sep
 
 Real-time Prediction: Users can input a URL to the trained model for real-time prediction of its maliciousness. The model processes the URL using the same vectorization techniques used during training and provides a prediction based on its learned patterns.
 ## Screenshots
-
+## Random MRI images of healthy and tumor brain cells are displayed for visual comparison.
 ![MRI Images Comparison](https://github.com/Sayan-Maity-Code/Brain_Hemorrhage_Detection_Model/blob/main/Screenshots/healthy%26Tumor%20brain%20mri%20img%20for%20comparison.jpg)
                         
-Random MRI images of healthy and tumor brain cells are displayed for visual comparison.
+
+## Demonstrating the noisy nature of the dataset.
 
 ![Noisy Data](https://github.com/Sayan-Maity-Code/Brain_Hemorrhage_Detection_Model/blob/main/Screenshots/That's%20how%20franctuating%20it%20was%20for%20our%20dataset%20previously.jpg)
 
-Demonstrating the noisy nature of the dataset.
 
+## Illustrating successful prediction after adjusting loss and bias in the model.
 ![Model Success](https://github.com/Sayan-Maity-Code/Brain_Hemorrhage_Detection_Model/blob/main/Screenshots/Success.jpg)
 
-Illustrating successful prediction after adjusting loss and bias in the model.
+
 
 
 ## Installation

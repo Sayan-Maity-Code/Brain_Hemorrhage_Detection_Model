@@ -47,6 +47,13 @@ To import the libraries-
 Installation method for the libraies are:
 
 
+- To install the proper version that I have installed I made a `requirements.txt` file to make it easy for you to install the same
+
+```bash
+pip install -r https://github.com/Sayan-Maity-Code/Brain_Hemorrhage_Detection_Model/blob/main/requirements.txt
+```
+
+
 ```pip install numpy torch matplotlib opencv-python scikit-learn```
 - Or you can just git clone the code but please change the path files according to your local machine
 ```git clone https://github.com/Sayan-Maity-Code/Brain_Hemorrhage_Detection_Model```

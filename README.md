@@ -1,4 +1,4 @@
-## Brain_Hemorrhage_Detection_Mode
+## Brain_Hemorrhage_Detection_Model
 This repository contains code for a deep learning model designed to detect brain hemorrhage in MRI scans. The model is implemented using PyTorch and trained on a custom dataset consisting of MRI images labeled with brain hemorrhage and normal classes.
 
 
